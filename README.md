@@ -3,7 +3,7 @@
 This is a simple **tribute page** dedicated to Dr. Norman Borlaug, the man who revolutionized agriculture and saved over a billion lives through his work in wheat production.  
 
 ## 🌐 Live Demo  
-[Insert GitHub Pages link if deployed]  
+[[Live link](https://abhinavrajeshh.github.io/tribute-page/)]  
 
 ## 📌 Features  
 ✅ Responsive design for all screen sizes  
